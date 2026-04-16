@@ -14,6 +14,6 @@ for e in range(estudiantes):
     print("Promedio:", round(promedio, 2))
 
     if promedio >= 4:
-        print("Aprueba")
+        print("El Alumno Aprueba")
     else:
-        print("Reprueba")
+        print("El Alumno Reprueba")
