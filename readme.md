@@ -1,1 +1,168 @@
-# Python  ![Descripción de la imagen](data:image/png;base64,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)
+Python Exercises
+
+<div align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80" alt="Python Logo" /><h3>Python Practice Repository</h3><p>Collection of Python exercises focused on logic, fundamentals, and continuous learning</p><p>
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" />
+</a>
+<a href="https://github.com/">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Status-Active-success" />
+</a>
+</p></div>
+---
+
+Overview
+
+This repository contains a collection of Python exercises created to improve programming logic and strengthen core Python concepts. The goal is to document learning progress and share practical examples with the community.
+
+This project is focused on:
+
+Python fundamentals
+
+Logic development
+
+Problem solving
+
+Continuous learning
+
+
+
+---
+
+Objectives
+
+Practice Python programming
+
+Improve problem solving skills
+
+Build a public learning portfolio
+
+Share exercises with developers and students
+
+
+
+---
+
+Technologies
+
+<div><a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+</a></div>Python 3
+
+Command Line Interface
+
+
+
+---
+
+Project Structure
+
+python-exercises/
+│
+├── promedio.py
+├── tienda.py
+├── estudiantes.py
+├── letras.py
+│
+└── README.md
+
+
+---
+
+Exercises Included
+
+Exercise	Description
+
+Promedio	Calculate average grades
+Tienda	Simple store logic
+Estudiantes	Student data handling
+Letras	Display characters from a name
+Bucles	Loop exercises
+Condicionales	If statement exercises
+
+
+
+---
+
+Getting Started
+
+Clone repository
+
+git clone https://github.com/your-username/python-exercises.git
+
+Navigate to project
+
+cd python-exercises
+
+Run an exercise
+
+python promedio.py
+
+
+---
+
+Learning Progress
+
+Exercises are added regularly to track progress and improve Python skills.
+
+
+---
+
+Roadmap
+
+Calculator
+
+Contact manager
+
+Notes system
+
+File handling
+
+Console mini games
+
+Data structures
+
+
+
+---
+
+Contributing
+
+Suggestions and improvements are welcome.
+
+1. Fork repository
+
+
+2. Create branch
+
+
+3. Make changes
+
+
+4. Submit pull request
+
+
+
+
+---
+
+License
+
+This project is intended for educational purposes.
+
+
+---
+
+Author
+
+Gabriel Pedreros
+Computer Engineering Student
+
+
+---
+
+<div align="center"><a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
+</a></div>
