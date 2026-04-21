@@ -165,7 +165,7 @@ python
 | Categoría | Archivo | Descripción | Nivel |
 |-------------|-----------|---------------|---------|
 | **Inicio** | `inicio.py` | Introducción al proyecto y funciones básicas | Principiante |
-| **Ejercicios en Clase** | `largo-username.py` | Validar longitud de nombre de usuario | Principiante |
+| **Ejercicios STRINGS** | `largo-username.py` | Validar longitud de nombre de usuario | Principiante |
 | | `pin.py` | Validar PIN de 4 dígitos | Principiante |
 | | `verificacion-password.py` | Verificar fortaleza de contraseña | Intermedio |
 | **Bucles For** | `pedir-nombre-user.py` | Solicitar input con validación | Principiante |
