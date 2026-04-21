@@ -73,6 +73,7 @@ python-Duocuc/
 │
 ├── ejerecicios en clase/
 │   ├── largo-username.py          # Validación de longitud de username
+│   ├── pin.py                      # Validación de PIN de 4 dígitos
 │   └── verificacion-password.py    # Verificación de contraseña segura
 │
 ├── for/
@@ -165,6 +166,7 @@ python
 |-------------|-----------|---------------|---------|
 | **Inicio** | `inicio.py` | Introducción al proyecto y funciones básicas | Principiante |
 | **Ejercicios en Clase** | `largo-username.py` | Validar longitud de nombre de usuario | Principiante |
+| | `pin.py` | Validar PIN de 4 dígitos | Principiante |
 | | `verificacion-password.py` | Verificar fortaleza de contraseña | Intermedio |
 | **Bucles For** | `pedir-nombre-user.py` | Solicitar input con validación | Principiante |
 | | `promedio-students.py` | Calcular promedios de estudiantes | Intermedio |
@@ -182,6 +184,7 @@ python
 
 #### Ejercicios en Clase
 - **Validación de Username**: Practica manejo de strings y condicionales
+- **Validación de PIN**: Verifica que un PIN tenga exactamente 4 dígitos
 - **Verificación de Password**: Implementa reglas de seguridad básicas
 
 #### Bucles For
@@ -238,7 +241,7 @@ python
 
 1. **Fork el repositorio**
    ```bash
-   git clone https://github.com/your-username/python-Duocuc.git
+   git clone https://github.com/gpb-codes/python-Duocuc.git
    ```
 
 2. **Crea una rama para tu feature**
