@@ -302,7 +302,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 - Estudiante de Ingeniería en Computación
 - Apasionado por Python y desarrollo de software
 - Siempre aprendiendo nuevas tecnologías
-- Contacto: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
+- Contacto: [g.pedreros.becerra@gmail.com](g.pedreros.becerra@gmail.com)
 
 ### Estadísticas del Proyecto
 - **Estrellas**: ¡Ayúdanos a crecer!
