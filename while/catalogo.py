@@ -5,6 +5,8 @@ while op!=4:
     print("1.PC $500.00")
     print("2. LGTV 55 pulgadas $ 380.000")
     print("3. Microondas Hamsa $100.000")
+    print("4. Salir")
+
     op=int(input())
     match op:
         case 1:

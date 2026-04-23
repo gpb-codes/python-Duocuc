@@ -2,7 +2,7 @@ import os
 import subprocess
 import sys
 
-# Diccionario con los proyectos organizados por categoría
+
 PROYECTOS = {
     "Ejercicios en Clase": {
         "ruta": "ejerecicios en clase",
@@ -28,6 +28,20 @@ PROYECTOS = {
             ("3. Tienda", "Tienda(If).py"),
         ]
     },
+    "while": {
+        "ruta": "while",
+        "archivos": [
+            ("1. Calculadora", "calculadora.py"),
+            ("2. Catalogo", "catalogo.py"),
+        ]
+    },
+    "Funciones": {
+        "ruta": "funciones",
+        "archivos": [
+            ("1. Calculadora", "calculadora.py"),
+            ("2. Promedio Estudiantes", "promedio estudent.py"), 
+        ]
+    },   
 }
 
 def limpiar_pantalla():
