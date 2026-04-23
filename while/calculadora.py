@@ -1,40 +1,22 @@
-def suma():
-    print("Resultado:", a + b)
-def resta():
-    print("Resultado:", a - b)
-def multiplicacion():
-    print("Resultado:", a * b)
-def dividir():
-    print("Resultado:", a / b)
+op=0
+total=0
 
-while True:
-    print("CALCULADORA")
-    print("1. Sumar")
-    print("2. Restar")
-    print("3. Multiplicar")
-    print("4. Dividir")
-    print("5. Salir")
-
-    op = input("Elige una opción: ")
-
-    if op == "5":
-        print("Saliendo del sistema...")
-        break
-
-    a = float(input("Ingresa el primer número: "))
-    b = float(input("Ingresa el segundo número: "))
-
+while op!=4:
+    print("1.PC $500.00")
+    print("2. LGTV 55 pulgadas $ 380.000")
+    print("3. Microondas Hamsa $100.000")
+    op=int(input())
     match op:
-        case "1":
-            suma()
-        case "2":
-            resta()
-        case "3":
-            multiplicacion()
-        case "4":
-            if b != 0:
-                dividir()
-            else:
-                print("Error: división por cero no es permitida")
+        case 1:
+            print (" El total a Pagar es ", 500000 *1.19)
+            total=5000000 *1.19
+        case 2:
+            print (" El total a Pagar es ", 3800000 *1.19)
+            total=5000000 *1.19
+        case 3:
+            print (" El total a Pagar es ", 100000 *1.19)
+            total=5000000 *1.19
+        case 4:
+            print (" has seleccionado salir, hasta luego")
         case _:
-            print("Opción inválida")
+            print (" opcion no valida, intente de nuevo")
