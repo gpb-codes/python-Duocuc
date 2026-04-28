@@ -302,7 +302,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 ## Autor
 
 **Gabriel Pedreros**
-- Estudiante de Ingeniería en Computación
+- Estudiante de Ingeniería en informatica
 - Apasionado por Python y desarrollo de software
 - Siempre aprendiendo nuevas tecnologías
 - Contacto: [g.pedreros.becerra@gmail.com](g.pedreros.becerra@gmail.com)
@@ -317,7 +317,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 <div align="center">
   <p><strong>¡Gracias por visitar este repositorio!</strong></p>
-  <p>Si te gusta el proyecto, no olvides darle una estrella en GitHub</p>
+  <p>Si te gusta la ayuda sobre estructuras de python, no olvides darle una estrella en GitHub</p>
   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python" />
   </a>
