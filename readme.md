@@ -308,7 +308,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 ## Contacto
 
 - **Email:** [g.pedreros.becerra@gmail.com](mailto:g.pedreros.becerra@gmail.com)  
-- **Web:** [gabrielPedreros.tech](https://gabrielPedreros.tech)  
+- **Web:** [gabrielPedreros.tech](https://gpb-codes.github.io/gabrielPedreros/)  
 - **Instagram:** @gabrielpedreros.tech
 
 ### Estadísticas del Proyecto
