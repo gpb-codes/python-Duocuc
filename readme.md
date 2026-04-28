@@ -305,7 +305,11 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 - Estudiante de Ingeniería en informatica
 - Apasionado por Python y desarrollo de software
 - Siempre aprendiendo nuevas tecnologías
-- Contacto: [g.pedreros.becerra@gmail.com](g.pedreros.becerra@gmail.com)
+## Contacto
+
+- **Email:** [g.pedreros.becerra@gmail.com](mailto:g.pedreros.becerra@gmail.com)  
+- **Web:** [gabrielPedreros.tech](https://gabrielPedreros.tech)  
+- **Instagram:** @gabrielpedreros.tech
 
 ### Estadísticas del Proyecto
 - **Estrellas**: ¡Ayúdanos a crecer!
