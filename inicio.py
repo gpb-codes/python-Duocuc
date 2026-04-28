@@ -10,6 +10,9 @@ PROYECTOS = {
             ("1. Largo de Username", "largo-username.py"),
             ("2. PIN", "pin.py"),
             ("3. Verificación de Password", "verificacion-password.py"),
+            ("4. Ludo", "ludo.py"),
+            ("5. Killer", "killer.py"),
+            ("6. Golfito", "golfito.py"),
         ]
     },
     "Bucles (FOR)": {
